@@ -2,18 +2,18 @@
 #yellow{
 	background-color:yellow;
 	border-style:solid;
-	Border-width:2px;
+	Border-width:1px;
 	Border-color:green;
 }
 #red{
 	background-color:red;
 	border-style:solid;
-	border-width:2px;
+	border-width:1px;
 	Border-color:black;
 }
 #green{
 	background-color:green;
 	border-style:solid;
-	border-width:2px;
+	border-width:1px;
 	border-color:yellow;
 }
