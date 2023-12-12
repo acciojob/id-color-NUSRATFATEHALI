@@ -1,5 +1,5 @@
-/*  your css code here. If applicable */
-#yellow{
+/*  your css code here. If applicable 
+ #yellow{
 	background:rgb(255,255,0);
 	border-top-style:solid;
 	border-bottom-style:solid;
@@ -9,10 +9,10 @@
 	border-bottom-width:1px;
 	border-left-width:1px;
 	border-right-width:1px;
-/* 	border-top-color:color;
+	 border-top-color:color;
 	border-bottom-color:color;
 	border-left-color:color;
-	border-right-color:color; */
+	border-right-color:color;
 	border-color:rgb(0,128,0);
 }
 #red{
@@ -38,4 +38,23 @@
 	border-left-width:1px;
 	border-right-width:1px;
 	border-color:rgb(255,255,0);
+}*/
+#yellow{
+	background:yellow;
+	border-width:2px;
+	border-style:solid;
+	border-color:green;
 }
+#red{
+	background:red;
+	border-width:2px;
+	border-style:solid;
+	border-color:black;
+}
+#green{
+	background:green;
+	border-width:2px;
+	border-style:solid;
+	border-color:yellow;
+}
+
