@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 #yellow{
-	background-color:rgb(255,255,0);
+	background:rgb(255,255,0);
 	border-top-style:solid;
 	border-bottom-style:solid;
 	border-left-style:solid;
@@ -9,10 +9,14 @@
 	border-bottom-width:1px;
 	border-left-width:1px;
 	border-right-width:1px;
+/* 	border-top-color:color;
+	border-bottom-color:color;
+	border-left-color:color;
+	border-right-color:color; */
 	border-color:rgb(0,128,0);
 }
 #red{
-	background-color:rgb(255,0,0);
+	background:rgb(255,0,0);
 	border-top-style:solid;
 	border-bottom-style:solid;
 	border-left-style:solid;
@@ -24,7 +28,7 @@
 	border-color:rgb(0,0,0);
 }
 #green{
-	background-color:rgb(0,128,0);
+	background:rgb(0,128,0);
 	border-top-style:solid;
 	border-bottom-style:solid;
 	border-left-style:solid;
